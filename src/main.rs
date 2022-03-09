@@ -207,7 +207,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn no_Variables() {
+    fn no_variables() {
         let contents = "// Adds 1 + ... + 100
         M=1 // i=1
         M=0 // sum=0
